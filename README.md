@@ -1,2 +1,3 @@
 # hello-world
-Some basic stuff for getting started.
+
+My first "Hello, World!" for getting started in Python language.
