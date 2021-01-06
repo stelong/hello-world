@@ -1,3 +1,3 @@
 # hello-world
 
-My first "Hello, World!" for getting started in Python language.
+My first script for getting started with Python.
